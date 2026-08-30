@@ -341,3 +341,11 @@ Questions: [support@moorcheh.ai](mailto:support@moorcheh.ai) · [@moorcheh_ai](h
   <strong>MIT License</strong><br>
   <sub><a href="README.md">English</a> · <a href="i18n/README_es.md">Español</a> · <a href="i18n/README_zh-CN.md">简体中文</a> · <a href="i18n/README_ja.md">日本語</a></sub>
 </p>
+
+---
+
+### Support & Community
+
+If you find this project useful, you can support continuous development:
+
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-Donate-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/sasiverse)
